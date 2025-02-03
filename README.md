@@ -18,6 +18,7 @@ This repository contains:
 | Day | Topic | PDF | Project |
 |----|------|-----|---------|
 | 1  | Introduction to React | [📄 Day 1](./React-JS-15-Days/day1.pdf) | [🛠 Project 1](./Projects/day1) |
+| 2  | Components & Props in React | [📄 Day 2](./React-JS-15-Days/day2.pdf) | [🛠 Project 2](./Projects/day2) |
 
 
 
@@ -27,6 +28,7 @@ This repository contains:
 
 ## 🔥 Featured Projects  
 ✅ **[Day 1 Project](./Projects/day1/src/Components)** – *First React Component*  
+✅ **[Day 2 Project](./Projects/day2/src/Components)** – *Components & Props Implementation*
  
 ✅ **More coming soon... 🚀**  
 
@@ -45,12 +47,13 @@ This repository contains:
 📦 react-learning-repo 
  ┣ 📂 React-JS-15-Days  
  ┃ ┣ 📜 learning-plan.pdf  
- ┃ ┣ 📜 day1.pdf   
+ ┃ ┣ 📜 day1.pdf
+ ┃ ┣ 📜 day2.pdf
  ┃ ┗ 📜
- ┣ 📂 Projects  
- ┃ ┣ 📂 day1  
- ┃ ┣ 📂  
- ┃ ┗ 📂  
+ ┣ 📂 Projects
+ ┃ ┣ 📂 day1
+ ┃ ┣ 📂 day2
+ ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
   
