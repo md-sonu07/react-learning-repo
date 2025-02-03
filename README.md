@@ -26,7 +26,7 @@ This repository contains:
 ---
 
 ## 🔥 Featured Projects  
-✅ **[Day 1 Project](./Projects/day1)** – *First React Component*  
+✅ **[Day 1 Project](./Projects/day1/src/Components)** – *First React Component*  
  
 ✅ **More coming soon... 🚀**  
 
