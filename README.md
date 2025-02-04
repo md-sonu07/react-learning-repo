@@ -30,6 +30,7 @@ This repository contains:
 ## 🔥 Featured Projects  
 ✅ **[Day 1 Project](./Projects/day1/src/Components)** – *First React Component*  
 ✅ **[Day 2 Project](./Projects/day2/src/Components)** – *Components & Props Implementation*
+
 ✅ **[Day 3 Projects](./Projects/day3/src/Components)**   
   - **useState Hook** – Manage component state  
   - **Event Handling** – Handle user interactions  
