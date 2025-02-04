@@ -44,7 +44,8 @@ This repository contains:
 ---
 
 ## 🛠 Tech Stack  
-- **Frontend:** React.js, Tailwind CSS  
+- **Frontend:** React.js, Tailwind CSS  [📄 Day 1 - React, Vite & Tailwind CSS Installation Guide](./React-JS-15-Days/R-V-T.pdf) 
+- **(Optional) Version Control:** Git  [📄 Day 3 - Git for Pushing Your Project](./React-JS-15-Days/Git.pdf) 
 - **State Management:** useState, useEffect, Context API  
 - **Routing:** React Router  
 - **API Integration:** Fetch API, Axios  
