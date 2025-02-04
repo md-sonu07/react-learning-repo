@@ -33,10 +33,10 @@ This repository contains:
 ✅ **[Day 2 Project](./Projects/day2/src/Components)** – *Components & Props Implementation*
 
 ✅ **[Day 3 Projects](./Projects/day3/src/Components)** - *state management*  
-  - **useState Hook** – Manage component state  
-  - **Event Handling** – Handle user interactions  
-  - **Controlled Input** – Update state on change  
-  - **Theme Toggle** – Light/Dark mode  
+  - **useState Hook** – Manage component state [Counter.jsx](./Projects/day3/src/Components/Counters/Counter.jsx)  
+  - **Event Handling** – Handle user interactions [Event.jsx](./Projects/day3/src/Components/Events/Event.jsx)  
+  - **Controlled Input** – Update state on change [LiveTextUpdate.jsx](./Projects/day3/src/Components/CtrComponents/LiveTextUpdate.jsx)  
+  - **Theme Toggle** – Light/Dark mode [Dark&Light.jsx](./Projects/day3/src/Components/ToggleBtn/Dark&Light.jsx)  
 
  
 ✅ **More coming soon... 🚀**  
