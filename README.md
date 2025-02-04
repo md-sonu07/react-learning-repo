@@ -19,6 +19,7 @@ This repository contains:
 |----|------|-----|---------|
 | 1  | Introduction to React | [📄 Day 1](./React-JS-15-Days/day1.pdf) | [🛠 Project 1](./Projects/day1) |
 | 2  | Components & Props in React | [📄 Day 2](./React-JS-15-Days/day2.pdf) | [🛠 Project 2](./Projects/day2) |
+| 3  | State & Event Handling | [📄 Day 3](./React-JS-15-Days/day3.pdf) | [🛠 Project 3](./Projects/day3) |
 
 
 
@@ -29,6 +30,12 @@ This repository contains:
 ## 🔥 Featured Projects  
 ✅ **[Day 1 Project](./Projects/day1/src/Components)** – *First React Component*  
 ✅ **[Day 2 Project](./Projects/day2/src/Components)** – *Components & Props Implementation*
+✅ **[Day 3 Projects](./Projects/day3/src/Components)**   
+  - **useState Hook** – Manage component state  
+  - **Event Handling** – Handle user interactions  
+  - **Controlled Input** – Update state on change  
+  - **Theme Toggle** – Light/Dark mode  
+
  
 ✅ **More coming soon... 🚀**  
 
@@ -49,10 +56,12 @@ This repository contains:
  ┃ ┣ 📜 learning-plan.pdf  
  ┃ ┣ 📜 day1.pdf
  ┃ ┣ 📜 day2.pdf
+ ┃ ┣ 📜 day3.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
  ┃ ┣ 📂 day2
+ ┃ ┣ 📂 day3
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
