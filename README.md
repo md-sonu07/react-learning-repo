@@ -57,6 +57,8 @@ This repository contains:
 📦 react-learning-repo 
  ┣ 📂 React-JS-15-Days  
  ┃ ┣ 📜 learning-plan.pdf  
+ ┃ ┣ 📜 R-V-T.pdf   // Recat Vite and Tailwindcss easy installation 
+ ┃ ┣ 📜 Git.pdf    // Git bassic commands for Push your Project in github 
  ┃ ┣ 📜 day1.pdf
  ┃ ┣ 📜 day2.pdf
  ┃ ┣ 📜 day3.pdf
