@@ -20,6 +20,7 @@ This repository contains:
 | 1  | Introduction to React | [📄 Day 1](./React-JS-15-Days/day1.pdf) | [🛠 Project 1](./Projects/day1) |
 | 2  | Components & Props in React | [📄 Day 2](./React-JS-15-Days/day2.pdf) | [🛠 Project 2](./Projects/day2) |
 | 3  | State & Event Handling | [📄 Day 3](./React-JS-15-Days/day3.pdf) | [🛠 Project 3](./Projects/day3) |
+| 4  | Conditional Rendering & Lists | [📄 Day 4](./React-JS-15-Days/day4.pdf) | [🛠 Project 4](./Projects/day4) |
 
 
 
@@ -36,7 +37,14 @@ This repository contains:
   - **useState Hook** – Manage component state [Counter.jsx](./Projects/day3/src/Components/Counters/Counter.jsx)  
   - **Event Handling** – Handle user interactions [Event.jsx](./Projects/day3/src/Components/Events/Event.jsx)  
   - **Controlled Input** – Update state on change [LiveTextUpdate.jsx](./Projects/day3/src/Components/CtrComponents/LiveTextUpdate.jsx)  
-  - **Theme Toggle** – Light/Dark mode [Dark&Light.jsx](./Projects/day3/src/Components/ToggleBtn/Dark&Light.jsx)  
+  - **Theme Toggle** – Light/Dark mode [Dark&Light.jsx](./Projects/day3/src/Components/ToggleBtn/Dark&Light.jsx)
+
+✅ **[Day 4 Projects](./Projects/day4/src/Components)**  
+  - **Item List** – [Render list of items](./Projects/day4/src/Components/ListRendering/IteamList.jsx)  
+  - **Product List** – [Render dynamic products](./Projects/day4/src/Components/ListRendering/ProductList.jsx)  
+  - **Task List** – [Task management](./Projects/day4/src/Components/ListRendering/TaskList.jsx)  
+  - **Login Alert** – [Handle login status](./Projects/day4/src/Components/LoginSignup/LoginAlert.jsx)  
+  - **Notification** – [Display alerts](./Projects/day4/src/Components/LoginSignup/Notification.jsx)  
 
  
 ✅ **More coming soon... 🚀**  
@@ -62,11 +70,13 @@ This repository contains:
  ┃ ┣ 📜 day1.pdf
  ┃ ┣ 📜 day2.pdf
  ┃ ┣ 📜 day3.pdf
+ ┃ ┣ 📜 day4.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
  ┃ ┣ 📂 day2
  ┃ ┣ 📂 day3
+ ┃ ┣ 📂 day4
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
