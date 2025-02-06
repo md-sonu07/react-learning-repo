@@ -1,5 +1,7 @@
 function UserCard({ user }) {
   return (
+    <>
+    
     <div className="p-6 bg-white rounded-2xl shadow-lg flex flex-col items-center w-60">
       <img
         src={user.image}
@@ -12,6 +14,7 @@ function UserCard({ user }) {
         View Profile
       </button>
     </div>
+    </>
   );
 }
 
