@@ -21,6 +21,7 @@ This repository contains:
 | 2  | Components & Props in React | [📄 Day 2](./React-JS-15-Days/day2.pdf) | [🛠 Project 2](./Projects/day2) |
 | 3  | State & Event Handling | [📄 Day 3](./React-JS-15-Days/day3.pdf) | [🛠 Project 3](./Projects/day3) |
 | 4  | Conditional Rendering & Lists | [📄 Day 4](./React-JS-15-Days/day4.pdf) | [🛠 Project 4](./Projects/day4) |
+| 5  | Handling Forms & Controlled Components | [📄 Day 5](./React-JS-15-Days/day5.pdf) | [🛠 Project 4](./Projects/day5) |
 
 
 
@@ -53,6 +54,16 @@ This repository contains:
   - **[Login Alert](./Projects/day4/src/Components/LoginSignup/LoginAlert.jsx)** – Display login notifications  
   - **[Notification](./Projects/day4/src/Components/LoginSignup/Notification.jsx)** – Show different types of alerts  
 
+✅ **[Day 4 Projects](./Projects/day4/src/Components)**  
+  - **[Simple Form](./Projects/day4/src/Components/Forms/SimpleForm.jsx)** – Basic form with input handling.
+  - **[Form Submission](./Projects/day4/src/Components/Forms/FormSubmit.jsx)** – Handling form submission.
+  - **[Multi-Input Form](./Projects/day4/src/Components/Forms/MultiInputForm.jsx)** – Managing multiple input fields.
+  - **[Dropdown Form](./Projects/day4/src/Components/Forms/DropdownForm.jsx)** – Handling dropdown/select elements.
+  - **[Checkbox Form](./Projects/day4/src/Components/Forms/CheckboxForm.jsx)** – Managing checkbox inputs.
+  - **[Radio Form](./Projects/day4/src/Components/Forms/RadioForm.jsx)** – Handling radio button selections.
+
+
+
 ✅ **More coming soon... 🚀**
 
 ---
@@ -77,12 +88,14 @@ This repository contains:
  ┃ ┣ 📜 day2.pdf
  ┃ ┣ 📜 day3.pdf
  ┃ ┣ 📜 day4.pdf
+ ┃ ┣ 📜 day5.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
  ┃ ┣ 📂 day2
  ┃ ┣ 📂 day3
  ┃ ┣ 📂 day4
+ ┃ ┣ 📂 day5
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
