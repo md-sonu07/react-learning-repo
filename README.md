@@ -29,25 +29,31 @@ This repository contains:
 ---
 
 ## 🔥 Featured Projects  
-✅ **[Day 1 Project](./Projects/day1/src/Components)** – *First React Component*  
 
-✅ **[Day 2 Project](./Projects/day2/src/Components)** – *Components & Props Implementation*
+✅ **[Day 1 Project](./Projects/day1/src/Components)**  
+  - **[Welcome Component](./Projects/day1/src/Components/WelcomeRecat/Welcome.jsx)** – Display a welcome message  
+  - **[React App Component](./Projects/day1/src/Components/WelcomeRecat/RecatApp.jsx)** – Basic React app structure  
 
-✅ **[Day 3 Projects](./Projects/day3/src/Components)** - *state management*  
-  - **useState Hook** – Manage component state [Counter.jsx](./Projects/day3/src/Components/Counters/Counter.jsx)  
-  - **Event Handling** – Handle user interactions [Event.jsx](./Projects/day3/src/Components/Events/Event.jsx)  
-  - **Controlled Input** – Update state on change [LiveTextUpdate.jsx](./Projects/day3/src/Components/CtrComponents/LiveTextUpdate.jsx)  
-  - **Theme Toggle** – Light/Dark mode [Dark&Light.jsx](./Projects/day3/src/Components/ToggleBtn/Dark&Light.jsx)
+✅ **[Day 2 Projects](./Projects/day2/src/Components)**  
+  - **[Heading Component](./Projects/day2/src/Components/NavBar/Heading.jsx)** – Display navigation heading  
+  - **[User Card](./Projects/day2/src/Components/UserCards/UserCard.jsx)** – Display user information  
+  - **[Mini User Card](./Projects/day2/src/Components/UserCards/MiniUserCard.jsx)** – Compact user profile card  
+  - **[User Data](./Projects/day2/src/Components/UserCards/UserData.jsx)** – Manage and display user data  
+
+✅ **[Day 3 Projects](./Projects/day3/src/Components)**  
+  - **[useState Hook](./Projects/day3/src/Components/Counters/Counter.jsx)** – Manage component state  
+  - **[Event Handling](./Projects/day3/src/Components/Events/Event.jsx)** – Handle user interactions  
+  - **[Controlled Input](./Projects/day3/src/Components/CtrComponents/LiveTextUpdate.jsx)** – Update state on change  
+  - **[Theme Toggle](./Projects/day3/src/Components/ToggleBtn/Dark&Light.jsx)** – Light/Dark mode  
 
 ✅ **[Day 4 Projects](./Projects/day4/src/Components)**  
-  - **Item List** – [Render list of items](./Projects/day4/src/Components/ListRendering/IteamList.jsx)  
-  - **Product List** – [Render dynamic products](./Projects/day4/src/Components/ListRendering/ProductList.jsx)  
-  - **Task List** – [Task management](./Projects/day4/src/Components/ListRendering/TaskList.jsx)  
-  - **Login Alert** – [Handle login status](./Projects/day4/src/Components/LoginSignup/LoginAlert.jsx)  
-  - **Notification** – [Display alerts](./Projects/day4/src/Components/LoginSignup/Notification.jsx)  
+  - **[Item List](./Projects/day4/src/Components/ListRendering/IteamList.jsx)** – Render a list of items  
+  - **[Product List](./Projects/day4/src/Components/ListRendering/ProductList.jsx)** – Display products dynamically  
+  - **[Task List](./Projects/day4/src/Components/ListRendering/TaskList.jsx)** – Manage a task list  
+  - **[Login Alert](./Projects/day4/src/Components/LoginSignup/LoginAlert.jsx)** – Display login notifications  
+  - **[Notification](./Projects/day4/src/Components/LoginSignup/Notification.jsx)** – Show different types of alerts  
 
- 
-✅ **More coming soon... 🚀**  
+✅ **More coming soon... 🚀**
 
 ---
 
