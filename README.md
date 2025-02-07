@@ -22,6 +22,7 @@ This repository contains:
 | 3  | State & Event Handling | [📄 Day 3](./React-JS-15-Days/day3.pdf) | [🛠 Project 3](./Projects/day3) |
 | 4  | Conditional Rendering & Lists | [📄 Day 4](./React-JS-15-Days/day4.pdf) | [🛠 Project 4](./Projects/day4) |
 | 5  | Handling Forms & Controlled Components | [📄 Day 5](./React-JS-15-Days/day5.pdf) | [🛠 Project 4](./Projects/day5) |
+| 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./React-JS-15-Days/day6.pdf) | [🛠 Project 6](./Projects/day6) |
 
 
 
@@ -29,7 +30,7 @@ This repository contains:
 
 ---
 
-## 🔥 Featured Projects  
+## 🔥 Projects Section  
 
 ✅ **[Day 1 Project](./Projects/day1/src/Components)**  
   - **[Welcome Component](./Projects/day1/src/Components/WelcomeRecat/Welcome.jsx)** – Display a welcome message  
@@ -54,14 +55,21 @@ This repository contains:
   - **[Login Alert](./Projects/day4/src/Components/LoginSignup/LoginAlert.jsx)** – Display login notifications  
   - **[Notification](./Projects/day4/src/Components/LoginSignup/Notification.jsx)** – Show different types of alerts  
 
-✅ **[Day 4 Projects](./Projects/day4/src/Components)**  
+✅ **[Day 5 Projects](./Projects/day4/src/Components)**  
   - **[Simple Form](./Projects/day4/src/Components/Forms/SimpleForm.jsx)** – Basic form with input handling.
   - **[Form Submission](./Projects/day4/src/Components/Forms/FormSubmit.jsx)** – Handling form submission.
   - **[Multi-Input Form](./Projects/day4/src/Components/Forms/MultiInputForm.jsx)** – Managing multiple input fields.
   - **[Dropdown Form](./Projects/day4/src/Components/Forms/DropdownForm.jsx)** – Handling dropdown/select elements.
   - **[Checkbox Form](./Projects/day4/src/Components/Forms/CheckboxForm.jsx)** – Managing checkbox inputs.
   - **[Radio Form](./Projects/day4/src/Components/Forms/RadioForm.jsx)** – Handling radio button selections.
-
+  - 
+✅ **[Day 6 Projects](./Projects/day6/src/Components)**  
+  - **[Counter with Effect](./Projects/day6/src/Components/CounterWithEffect.jsx)** – Uses `useEffect` to update document title  
+  - **[Fetch Data](./Projects/day6/src/Components/FetchData.jsx)** – Fetches and displays data from an API  
+  - **[Fetch Data with API](./Projects/day6/src/Components/FetchDataApi.jsx)** – Uses an external API for dynamic content  
+  - **[Focus Input](./Projects/day6/src/Components/FocusInput.jsx)** – Demonstrates ref-based input focusing  
+  - **[Previous Counter](./Projects/day6/src/Components/PreviousCounter.jsx)** – Stores the previous counter value  
+  - **[Timer](./Projects/day6/src/Components/Timer.jsx)** – Implements a timer using `useEffect` 
 
 
 ✅ **More coming soon... 🚀**
@@ -89,6 +97,7 @@ This repository contains:
  ┃ ┣ 📜 day3.pdf
  ┃ ┣ 📜 day4.pdf
  ┃ ┣ 📜 day5.pdf
+ ┃ ┣ 📜 day6.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -96,6 +105,7 @@ This repository contains:
  ┃ ┣ 📂 day3
  ┃ ┣ 📂 day4
  ┃ ┣ 📂 day5
+ ┃ ┣ 📂 day6
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
