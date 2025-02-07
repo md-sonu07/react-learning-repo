@@ -62,7 +62,7 @@ This repository contains:
   - **[Dropdown Form](./Projects/day4/src/Components/Forms/DropdownForm.jsx)** – Handling dropdown/select elements.
   - **[Checkbox Form](./Projects/day4/src/Components/Forms/CheckboxForm.jsx)** – Managing checkbox inputs.
   - **[Radio Form](./Projects/day4/src/Components/Forms/RadioForm.jsx)** – Handling radio button selections.
-  - 
+    
 ✅ **[Day 6 Projects](./Projects/day6/src/Components)**  
   - **[Counter with Effect](./Projects/day6/src/Components/CounterWithEffect.jsx)** – Uses `useEffect` to update document title  
   - **[Fetch Data](./Projects/day6/src/Components/FetchData.jsx)** – Fetches and displays data from an API  
