@@ -17,16 +17,16 @@ This repository contains:
 ## 📖 15-Day React Learning Plan  
 | Day | Topic | PDF | Project |
 |----|------|-----|---------|
-| 1  | Introduction to React | [📄 Day 1](./React-JS-15-Days/day1.pdf) | [🛠 Project 1](./Projects/day1) |
-| 2  | Components & Props in React | [📄 Day 2](./React-JS-15-Days/day2.pdf) | [🛠 Project 2](./Projects/day2) |
-| 3  | State & Event Handling | [📄 Day 3](./React-JS-15-Days/day3.pdf) | [🛠 Project 3](./Projects/day3) |
-| 4  | Conditional Rendering & Lists | [📄 Day 4](./React-JS-15-Days/day4.pdf) | [🛠 Project 4](./Projects/day4) |
-| 5  | Handling Forms & Controlled Components | [📄 Day 5](./React-JS-15-Days/day5.pdf) | [🛠 Project 4](./Projects/day5) |
-| 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./React-JS-15-Days/day6.pdf) | [🛠 Project 6](./Projects/day6) |
+| 1  | Introduction to React | [📄 Day 1](./Notes/day1.pdf) | [🛠 Project 1](./Projects/day1) |
+| 2  | Components & Props in React | [📄 Day 2](./Notes/day2.pdf) | [🛠 Project 2](./Projects/day2) |
+| 3  | State & Event Handling | [📄 Day 3](./Notes/day3.pdf) | [🛠 Project 3](./Projects/day3) |
+| 4  | Conditional Rendering & Lists | [📄 Day 4](./Notes/day4.pdf) | [🛠 Project 4](./Projects/day4) |
+| 5  | Handling Forms & Controlled Components | [📄 Day 5](./Notes/day5.pdf) | [🛠 Project 4](./Projects/day5) |
+| 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./Notes/day6.pdf) | [🛠 Project 6](./Projects/day6) |
 
 
 
-📌 **Check the full plan in the [Learning Plan](./React-JS-15-Days/learning-plan.pdf).**
+📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
 
 ---
 
@@ -88,7 +88,7 @@ This repository contains:
 ## 📂 Folder Structure  
 ```
 📦 react-learning-repo 
- ┣ 📂 React-JS-15-Days  
+ ┣ 📂 Notes  
  ┃ ┣ 📜 learning-plan.pdf  
  ┃ ┣ 📜 R-V-T.pdf   // Recat Vite and Tailwindcss easy installation 
  ┃ ┣ 📜 Git.pdf    // Git bassic commands for Push your Project in github 
