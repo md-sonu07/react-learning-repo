@@ -1,7 +1,12 @@
 
 # 🚀 React.js Learning & Projects Repository  
 
-Welcome to my **React.js** repository! 🎉 This space is dedicated to my **15-day React learning plan**, including PDFs for each day and hands-on projects to reinforce concepts.  
+*Welcome to my **React.js** repository! 🎉 This space is dedicated to my **15-day React learning plan**, including PDFs for each day and hands-on projects to reinforce concepts.*
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg
+  " alt="C Programming Logo" width="100">
+</p>
 
 ---
 
