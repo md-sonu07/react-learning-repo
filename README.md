@@ -27,6 +27,7 @@ This repository contains:
 | 4  | Conditional Rendering & Lists | [📄 Day 4](./Notes/day4.pdf) | [🛠 Project 4](./Projects/day4) |
 | 5  | Handling Forms & Controlled Components | [📄 Day 5](./Notes/day5.pdf) | [🛠 Project 4](./Projects/day5) |
 | 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./Notes/day6.pdf) | [🛠 Project 6](./Projects/day6) |
+| 7  | React Router & Navigation | [📄 Day 7](./React-JS-15-Days/day7.pdf) | [🛠 Project 7](./Projects/day7) |
 
 
 
@@ -73,8 +74,16 @@ This repository contains:
   - **[Fetch Data with API](./Projects/day6/src/Components/FetchDataApi.jsx)** – Uses an external API for dynamic content  
   - **[Focus Input](./Projects/day6/src/Components/FocusInput.jsx)** – Demonstrates ref-based input focusing  
   - **[Previous Counter](./Projects/day6/src/Components/PreviousCounter.jsx)** – Stores the previous counter value  
-  - **[Timer](./Projects/day6/src/Components/Timer.jsx)** – Implements a timer using `useEffect` 
-
+  - **[Timer](./Projects/day6/src/Components/Timer.jsx)** – Implements a timer using `useEffect`
+    
+✅ **[Day 7 Projects](./Projects/day7/src/Components)**  
+  - **[Navbar](./Projects/day7/src/Components/Navbar.jsx)** – Navigation bar for the app  
+  - **[Footer](./Projects/day7/src/Components/Footer.jsx)** – Footer component  
+  - **[User Profile](./Projects/day7/src/Components/UserProfile.jsx)** – Displays user details  
+  - **[Home Page](./Projects/day7/src/Pages/Home.jsx)** – Main landing page  
+  - **[About Page](./Projects/day7/src/Pages/About.jsx)** – Information about the project  
+  - **[Contact Page](./Projects/day7/src/Pages/Contact.jsx)** – Contact details and form  
+  - **[Not Found Page](./Projects/day7/src/Pages/NotFound.jsx)** – Custom 404 error page 
 
 ✅ **More coming soon... 🚀**
 
@@ -102,6 +111,7 @@ This repository contains:
  ┃ ┣ 📜 day4.pdf
  ┃ ┣ 📜 day5.pdf
  ┃ ┣ 📜 day6.pdf
+ ┃ ┣ 📜 day7.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -110,6 +120,7 @@ This repository contains:
  ┃ ┣ 📂 day4
  ┃ ┣ 📂 day5
  ┃ ┣ 📂 day6
+ ┃ ┣ 📂 day7
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
