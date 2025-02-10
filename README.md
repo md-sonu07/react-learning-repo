@@ -27,7 +27,8 @@ This repository contains:
 | 4  | Conditional Rendering & Lists | [📄 Day 4](./Notes/day4.pdf) | [🛠 Project 4](./Projects/day4) |
 | 5  | Handling Forms & Controlled Components | [📄 Day 5](./Notes/day5.pdf) | [🛠 Project 4](./Projects/day5) |
 | 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./Notes/day6.pdf) | [🛠 Project 6](./Projects/day6) |
-| 7  | React Router & Navigation | [📄 Day 7](./React-JS-15-Days/day7.pdf) | [🛠 Project 7](./Projects/day7) |
+| 7  | React Router & Navigation | [📄 Day 7](./Notes/day7.pdf) | [🛠 Project 7](./Projects/day7) |
+| 8  | Advanced Forms & Validation | [📄 Day 8](./Notes/day8.pdf) | [🛠 Project 8](./Projects/day8) |
 
 
 
@@ -84,6 +85,15 @@ This repository contains:
   - **[About Page](./Projects/day7/src/Pages/About.jsx)** – Information about the project  
   - **[Contact Page](./Projects/day7/src/Pages/Contact.jsx)** – Contact details and form  
   - **[Not Found Page](./Projects/day7/src/Pages/NotFound.jsx)** – Custom 404 error page 
+
+✅ **[Day 8 Projects](./Projects/day8/src/Components)**  
+  - **[Simple Form](./Projects/day8/src/Components/SimpleFrom.jsx)** – Basic form component  
+  - **[Form Submission](./Projects/day8/src/Components/FormSubmit.jsx)** – Handling form submission  
+  - **[Multi-Input Form](./Projects/day8/src/Components/MultiInputForm.jsx)** – Managing multiple inputs  
+  - **[Checkbox Form](./Projects/day8/src/Components/CheckboxForm.jsx)** – Handling checkbox inputs  
+  - **[Radio Button Form](./Projects/day8/src/Components/RadioForm.jsx)** – Managing radio buttons  
+  - **[Select Dropdown Form](./Projects/day8/src/Components/SelectForm.jsx)** – Handling dropdown selection  
+  - **[Validated Form](./Projects/day8/src/Components/ValidatedForm.jsx)** – Implementing form validation  
 
 ✅ **More coming soon... 🚀**
 
