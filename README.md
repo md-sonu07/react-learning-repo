@@ -122,6 +122,7 @@ This repository contains:
  ┃ ┣ 📜 day5.pdf
  ┃ ┣ 📜 day6.pdf
  ┃ ┣ 📜 day7.pdf
+ ┃ ┣ 📜 day8.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -131,6 +132,7 @@ This repository contains:
  ┃ ┣ 📂 day5
  ┃ ┣ 📂 day6
  ┃ ┣ 📂 day7
+ ┃ ┣ 📂 day8
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
