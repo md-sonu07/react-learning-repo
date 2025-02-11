@@ -29,7 +29,7 @@ This repository contains:
 | 6  |  React Hooks - useEffect & useRef | [📄 Day 6](./Notes/day6.pdf) | [🛠 Project 6](./Projects/day6) |
 | 7  | React Router & Navigation | [📄 Day 7](./Notes/day7.pdf) | [🛠 Project 7](./Projects/day7) |
 | 8  | Advanced Forms & Validation | [📄 Day 8](./Notes/day8.pdf) | [🛠 Project 8](./Projects/day8) |
-
+| 9  | Context API & Authentication | [📄 Day 9](./Notes/day9.pdf) | [🛠 Project 9](./Projects/day9) |
 
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
@@ -93,7 +93,14 @@ This repository contains:
   - **[Checkbox Form](./Projects/day8/src/Components/CheckboxForm.jsx)** – Handling checkbox inputs  
   - **[Radio Button Form](./Projects/day8/src/Components/RadioForm.jsx)** – Managing radio buttons  
   - **[Select Dropdown Form](./Projects/day8/src/Components/SelectForm.jsx)** – Handling dropdown selection  
-  - **[Validated Form](./Projects/day8/src/Components/ValidatedForm.jsx)** – Implementing form validation  
+  - **[Validated Form](./Projects/day8/src/Components/ValidatedForm.jsx)** – Implementing form validation
+    
+✅ **[Day 9 Projects](./Projects/day9/src/Components)**  
+  - **[Theme Context](./Projects/day9/src/Components/ThemeContext.jsx)** – Provides theme context  
+  - **[Theme Provider](./Projects/day9/src/Components/ThemeProvider.jsx)** – Manages theme state  
+  - **[Theme Switcher](./Projects/day9/src/Components/ThemeSwitcher.jsx)** – Allows toggling theme  
+  - **[Auth Provider](./Projects/day9/src/Components/Auth/AuthProvider.jsx)** – Manages authentication  
+  - **[Login Component](./Projects/day9/src/Components/Auth/Login.jsx)** – Handles user login 
 
 ✅ **More coming soon... 🚀**
 
@@ -123,6 +130,7 @@ This repository contains:
  ┃ ┣ 📜 day6.pdf
  ┃ ┣ 📜 day7.pdf
  ┃ ┣ 📜 day8.pdf
+ ┃ ┣ 📜 day9.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -133,6 +141,7 @@ This repository contains:
  ┃ ┣ 📂 day6
  ┃ ┣ 📂 day7
  ┃ ┣ 📂 day8
+ ┃ ┣ 📂 day9
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
