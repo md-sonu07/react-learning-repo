@@ -30,6 +30,7 @@ This repository contains:
 | 7  | React Router & Navigation | [📄 Day 7](./Notes/day7.pdf) | [🛠 Project 7](./Projects/day7) |
 | 8  | Advanced Forms & Validation | [📄 Day 8](./Notes/day8.pdf) | [🛠 Project 8](./Projects/day8) |
 | 9  | Context API & Authentication | [📄 Day 9](./Notes/day9.pdf) | [🛠 Project 9](./Projects/day9) |
+| 10  | useEffect Hook - Cleanup & Dependencies | [📄 Day 10](./Notes/day10.pdf) | [🛠 Project 10](./Projects/day10) |
 
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
@@ -102,6 +103,13 @@ This repository contains:
   - **[Auth Provider](./Projects/day9/src/Components/Auth/AuthProvider.jsx)** – Manages authentication  
   - **[Login Component](./Projects/day9/src/Components/Auth/Login.jsx)** – Handles user login 
 
+✅ **[Day 10 Projects](./Projects/day10/src/Components)**
+  - **[Effect Cleanup](./Projects/day10/src/Components/EffectCleanup.jsx)** – Demonstrates cleanup in useEffect
+  - **[Effect With Dependencies](./Projects/day10/src/Components/EffectWithDependencies.jsx)** – Shows dependency-based re-runs
+  - **[Effect Without Dependencies](./Projects/day10/src/Components/EffectWithoutDependencies.jsx)** – Runs once on mount
+  - **[Fetch User](./Projects/day10/src/Components/FetchUser.jsx)** – Fetches user data via API
+  - **[Mouse Tracker](./Projects/day10/src/Components/MouseTracker.jsx)** – Tracks mouse movement
+
 ✅ **More coming soon... 🚀**
 
 ---
@@ -131,6 +139,7 @@ This repository contains:
  ┃ ┣ 📜 day7.pdf
  ┃ ┣ 📜 day8.pdf
  ┃ ┣ 📜 day9.pdf
+ ┃ ┣ 📜 day10.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -142,6 +151,7 @@ This repository contains:
  ┃ ┣ 📂 day7
  ┃ ┣ 📂 day8
  ┃ ┣ 📂 day9
+ ┃ ┣ 📂 day10
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
