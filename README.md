@@ -31,6 +31,7 @@ This repository contains:
 | 8  | Advanced Forms & Validation | [📄 Day 8](./Notes/day8.pdf) | [🛠 Project 8](./Projects/day8) |
 | 9  | Context API & Authentication | [📄 Day 9](./Notes/day9.pdf) | [🛠 Project 9](./Projects/day9) |
 | 10  | useEffect Hook - Cleanup & Dependencies | [📄 Day 10](./Notes/day10.pdf) | [🛠 Project 10](./Projects/day10) |
+| 11  | React Custom Hooks | [📄 Day 11](./Notes/day11.pdf) | [🛠 Project 11](./Projects/day11) |
 
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
@@ -110,6 +111,15 @@ This repository contains:
   - **[Fetch User](./Projects/day10/src/Components/FetchUser.jsx)** – Fetches user data via API
   - **[Mouse Tracker](./Projects/day10/src/Components/MouseTracker.jsx)** – Tracks mouse movement
 
+✅ **[Day 11 Projects](./Projects/day11/src/Components)**
+  - **[Counter Component](./Projects/day11/src/Components/CounterComponent.jsx)** – Custom counter hook
+  - **[Theme Switcher](./Projects/day11/src/Components/ThemeSwitcher.jsx)** – Allows toggling theme
+  - **[useCounter Hook](./Projects/day11/src/Components/useCounter.jsx)** – Custom counter logic
+  - **[useFetch Hook](./Projects/day11/src/Components/useFetch.jsx)** – Custom fetch logic
+  - **[useLocalStorage Hook](./Projects/day11/src/Components/useLocalStorage.jsx)** – Manages local storage
+  - **[Users List](./Projects/day11/src/Components/UsersList.jsx)** – Displays users with fetch hook
+
+
 ✅ **More coming soon... 🚀**
 
 ---
@@ -140,6 +150,7 @@ This repository contains:
  ┃ ┣ 📜 day8.pdf
  ┃ ┣ 📜 day9.pdf
  ┃ ┣ 📜 day10.pdf
+ ┃ ┣ 📜 day11.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -152,6 +163,7 @@ This repository contains:
  ┃ ┣ 📂 day8
  ┃ ┣ 📂 day9
  ┃ ┣ 📂 day10
+ ┃ ┣ 📂 day11
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
