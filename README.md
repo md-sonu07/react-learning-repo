@@ -32,6 +32,7 @@ This repository contains:
 | 9  | Context API & Authentication | [📄 Day 9](./Notes/day9.pdf) | [🛠 Project 9](./Projects/day9) |
 | 10  | useEffect Hook - Cleanup & Dependencies | [📄 Day 10](./Notes/day10.pdf) | [🛠 Project 10](./Projects/day10) |
 | 11  | React Custom Hooks | [📄 Day 11](./Notes/day11.pdf) | [🛠 Project 11](./Projects/day11) |
+| 12  | Advanced Forms & Hook Form | [📄 Day 12](./Notes/day12.pdf) | [🛠 Project 12](./Projects/day12) |
 
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
@@ -119,6 +120,12 @@ This repository contains:
   - **[useLocalStorage Hook](./Projects/day11/src/Components/useLocalStorage.jsx)** – Manages local storage
   - **[Users List](./Projects/day11/src/Components/UsersList.jsx)** – Displays users with fetch hook
 
+✅ [**Day 12 Projects**](./Projects/day12/src/Components)
+  - [**Controlled Form**](./Projects/day12/src/Components/ControlledForm.jsx) – Handles controlled inputs
+  - [**Form Validation**](./Projects/day12/src/Components/FormValidation.jsx) – Implements form validation logic
+  - [**Hook Form**](./Projects/day12/src/Components/HookForm.jsx) – Demonstrates React Hook Form usage
+  - [**Multi-Input Form**](./Projects/day12/src/Components/MultiInputForm.jsx) – Manages multiple form inputs
+  - [**Simple Form**](./Projects/day12/src/Components/SimpleForm.jsx) – Basic form handling
 
 ✅ **More coming soon... 🚀**
 
@@ -151,6 +158,7 @@ This repository contains:
  ┃ ┣ 📜 day9.pdf
  ┃ ┣ 📜 day10.pdf
  ┃ ┣ 📜 day11.pdf
+ ┃ ┣ 📜 day12.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -164,6 +172,7 @@ This repository contains:
  ┃ ┣ 📂 day9
  ┃ ┣ 📂 day10
  ┃ ┣ 📂 day11
+ ┃ ┣ 📂 day12
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
