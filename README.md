@@ -34,7 +34,7 @@ This repository contains:
 | 11  | React Custom Hooks | [📄 Day 11](./Notes/day11.pdf) | [🛠 Project 11](./Projects/day11) |
 | 12  | Advanced Forms & Hook Form | [📄 Day 12](./Notes/day12.pdf) | [🛠 Project 12](./Projects/day12) |
 | 13  | React Router - Advanced Navigation | [📄 Day 13](./Notes/day13.pdf) | [🛠 Project 13](./Projects/day13) |
-
+| 14  | API Integration with Fetch & Axios| [📄 Day 14](./Notes/day14.pdf) | [🛠 Project 14](./Projects/day14) |
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
 
@@ -151,6 +151,13 @@ This repository contains:
   - [**Settings Page**](./Projects/day13/src/Pages/SettingsPage.jsx)
   - [**User Profile**](./Projects/day13/src/Pages/UserProfile.jsx)
 
+✅ [**Day 14 Projects**](./Projects/day14/src/Components)
+  - [**Add User**](./Projects/day14/src/Components/AddUser.jsx) – Adds a user dynamically
+  - [**Fetch Data**](./Projects/day14/src/Components/FetchData.jsx) – Fetches data using Fetch API
+  - [**Fetch Data with Axios**](./Projects/day14/src/Components/FetchDataAxios.jsx) – Fetches data using Axios
+  - [**Fetch with Loading State**](./Projects/day14/src/Components/FetchWithLoading.jsx) – Fetches data with a loading indicator
+  - [**Movies Component**](./Projects/day14/src/Components/Movies.jsx) – Displays movie data from an API
+
 ✅ **More coming soon... 🚀**
 
 ---
@@ -184,6 +191,7 @@ This repository contains:
  ┃ ┣ 📜 day11.pdf
  ┃ ┣ 📜 day12.pdf
  ┃ ┣ 📜 day13.pdf
+ ┃ ┣ 📜 day14.pdf
  ┃ ┗ 📜
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
@@ -199,6 +207,7 @@ This repository contains:
  ┃ ┣ 📂 day11
  ┃ ┣ 📂 day12
  ┃ ┣ 📂 day13
+ ┃ ┣ 📂 day14
  ┃ ┗ 📂
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
