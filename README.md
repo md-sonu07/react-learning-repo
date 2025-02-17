@@ -35,6 +35,7 @@ This repository contains:
 | 12  | Advanced Forms & Hook Form | [📄 Day 12](./Notes/day12.pdf) | [🛠 Project 12](./Projects/day12) |
 | 13  | React Router - Advanced Navigation | [📄 Day 13](./Notes/day13.pdf) | [🛠 Project 13](./Projects/day13) |
 | 14  | API Integration with Fetch & Axios| [📄 Day 14](./Notes/day14.pdf) | [🛠 Project 14](./Projects/day14) |
+| 15  | final project with live link | [📄 Day 15](./Notes/day15.pdf) |[🛠 Project 15](./Projects/day15) |
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
 
@@ -48,8 +49,6 @@ This repository contains:
 
 ✅ **[Day 2 Projects](./Projects/day2/src/Components)**  
   - **[Heading Component](./Projects/day2/src/Components/NavBar/Heading.jsx)** – Display navigation heading
-
-### UserCards:
   - **[User Card](./Projects/day2/src/Components/UserCards/UserCard.jsx)** – Display user information  
   - **[Mini User Card](./Projects/day2/src/Components/UserCards/MiniUserCard.jsx)** – Compact user profile card  
   - **[User Data](./Projects/day2/src/Components/UserCards/UserData.jsx)** – Manage and display user data  
@@ -87,8 +86,6 @@ This repository contains:
   - **[Navbar](./Projects/day7/src/Components/Navbar.jsx)** – Navigation bar for the app  
   - **[Footer](./Projects/day7/src/Components/Footer.jsx)** – Footer component  
   - **[User Profile](./Projects/day7/src/Components/UserProfile.jsx)** – Displays user details
-
-### Pages:
   - **[Home Page](./Projects/day7/src/Pages/Home.jsx)** – Main landing page  
   - **[About Page](./Projects/day7/src/Pages/About.jsx)** – Information about the project  
   - **[Contact Page](./Projects/day7/src/Pages/Contact.jsx)** – Contact details and form  
@@ -107,8 +104,6 @@ This repository contains:
   - **[Theme Context](./Projects/day9/src/Components/ThemeContext.jsx)** – Provides theme context  
   - **[Theme Provider](./Projects/day9/src/Components/ThemeProvider.jsx)** – Manages theme state  
   - **[Theme Switcher](./Projects/day9/src/Components/ThemeSwitcher.jsx)** – Allows toggling theme
-    
-### Auth: 
   - **[Auth Provider](./Projects/day9/src/Components/Auth/AuthProvider.jsx)** – Manages authentication  
   - **[Login Component](./Projects/day9/src/Components/Auth/Login.jsx)** – Handles user login 
 
@@ -135,21 +130,17 @@ This repository contains:
   - [**Simple Form**](./Projects/day12/src/Components/SimpleForm.jsx) – Basic form handling
 
 ✅ [**Day 13 Projects**](./Projects/day13/src)
-
-### Components:
   - [**Protected Route**](./Projects/day13/src/Components/ProtectedRoute.jsx) – Route protection logic
   - [**Side Navigation**](./Projects/day13/src/Components/SideNav.jsx) – Navigation sidebar
-
-### Pages:
-  - [**About Page**](./Projects/day13/src/Pages/About.jsx)
-  - [**Contact Page**](./Projects/day13/src/Pages/Contact.jsx)
-  - [**Dashboard**](./Projects/day13/src/Pages/Dashboard.jsx)
-  - [**Home Page**](./Projects/day13/src/Pages/Home.jsx)
-  - [**Login Page**](./Projects/day13/src/Pages/Login.jsx)
-  - [**Not Found Page**](./Projects/day13/src/Pages/NotFound.jsx)
-  - [**Profile Page**](./Projects/day13/src/Pages/Profile.jsx)
-  - [**Settings Page**](./Projects/day13/src/Pages/SettingsPage.jsx)
-  - [**User Profile**](./Projects/day13/src/Pages/UserProfile.jsx)
+  - [**About Page**](./Projects/day13/src/Pages/About.jsx) – 'Displays information about the website'
+  - [**Contact Page**](./Projects/day13/src/Pages/Contact.jsx) – 'Allows users to contact the website team'
+  - [**Dashboard**](./Projects/day13/src/Pages/Dashboard.jsx) – 'Main control center for user interaction'
+  - [**Home Page**](./Projects/day13/src/Pages/Home.jsx) – 'Main landing page'
+  - [**Login Page**](./Projects/day13/src/Pages/Login.jsx) – 'Handles user login'
+  - [**Not Found Page**](./Projects/day13/src/Pages/NotFound.jsx) – 'Displays when the page is not found'
+  - [**Profile Page**](./Projects/day13/src/Pages/Profile.jsx) – 'Displays user profile details'
+  - [**Settings Page**](./Projects/day13/src/Pages/SettingsPage.jsx) – 'Allows users to update their settings'
+  - [**User Profile**](./Projects/day13/src/Pages/UserProfile.jsx) – 'Displays detailed user profile'
 
 ✅ [**Day 14 Projects**](./Projects/day14/src/Components)
   - [**Add User**](./Projects/day14/src/Components/AddUser.jsx) – Adds a user dynamically
@@ -157,6 +148,14 @@ This repository contains:
   - [**Fetch Data with Axios**](./Projects/day14/src/Components/FetchDataAxios.jsx) – Fetches data using Axios
   - [**Fetch with Loading State**](./Projects/day14/src/Components/FetchWithLoading.jsx) – Fetches data with a loading indicator
   - [**Movies Component**](./Projects/day14/src/Components/Movies.jsx) – Displays movie data from an API
+
+✅ **[Day 15 Project](./Projects/day15/src/Components)**  
+  - **[MovieCard](./Projects/day15/src/Components/MovieCard.jsx)** – Displays individual movie details  
+  - **[Navbar](./Projects/day15/src/Components/Navbar.jsx)** – Provides navigation bar  
+  - **[Home](./Projects/day15/src/Pages/Home.jsx)** – Main landing page  
+  - **[MovieDetails](./Projects/day15/src/Pages/MovieDetails.jsx)** – Displays detailed movie information  
+  - **[NotFound](./Projects/day15/src/Pages/NotFound.jsx)** – Handles page not found error  
+  - **[SearchResults](./Projects/day15/src/Pages/SearchResults.jsx)** – Displays search results for movies |
 
 ✅ **More coming soon... 🚀**
 
@@ -192,7 +191,7 @@ This repository contains:
  ┃ ┣ 📜 day12.pdf
  ┃ ┣ 📜 day13.pdf
  ┃ ┣ 📜 day14.pdf
- ┃ ┗ 📜
+ ┃ ┗ 📜 day15.pdf
  ┣ 📂 Projects
  ┃ ┣ 📂 day1
  ┃ ┣ 📂 day2
@@ -208,7 +207,7 @@ This repository contains:
  ┃ ┣ 📂 day12
  ┃ ┣ 📂 day13
  ┃ ┣ 📂 day14
- ┃ ┗ 📂
+ ┃ ┗ 📂 day15
  ┣ 📜 README.md 
  ┗ 📜 LICENSE  
   
