@@ -36,6 +36,8 @@ This repository contains:
 | 13  | React Router - Advanced Navigation | [📄 Day 13](./Notes/day13.pdf) | [🛠 Project 13](./Projects/day13) |
 | 14  | API Integration with Fetch & Axios| [📄 Day 14](./Notes/day14.pdf) | [🛠 Project 14](./Projects/day14) |
 | 15  | final project with live link | [📄 Day 15](./Notes/day15.pdf) |[🛠 Project 15](./Projects/day15) |
+| → → | project link | [🎬 Movie Explorer ](https://movie-explorer-blue.vercel.app/) |[🎬 Movie Explorer](https://movie-explorer-blue.vercel.app/) |
+
 
 📌 **Check the full plan in the [Learning Plan](./Notes/learning-plan.pdf).**
 
