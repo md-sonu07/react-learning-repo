@@ -219,7 +219,7 @@ This repository contains:
 
 ## 🚀 How to Run Locally  
 ```sh
-git clone https://github.com/danish-farhan07/react-learning-repo.git  
+git clone https://github.com/md-sonu07/react-learning-repo.git  
 ```
 ```sh  
 cd react-learning-repo  
