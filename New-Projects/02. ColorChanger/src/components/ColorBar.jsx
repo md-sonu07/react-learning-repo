@@ -10,8 +10,8 @@ function ColorBar() {
                 <div>
                     <h1 className='text-2xl font-bold text-white'>CHANGE COLOR 🎨 {color.toLocaleUpperCase()}</h1>
                 </div>
-                <div 
-                className='flex justify-center items-end absolute bottom-0  bg-white rounded-xl p-4 mb-10 gap-4 font-medium'>
+                <div
+                    className='flex justify-center items-end absolute bottom-0  bg-white rounded-xl p-4 mb-10 gap-4 font-medium'>
                     <button
                         onClick={() => setColor('red')}
                         className='bg-red-500 p-2 rounded-xl text-white hover:bg-red-600 transition-all duration-300 cursor-pointer'>Red</button>
