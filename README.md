@@ -175,6 +175,7 @@ This repository contains:
 ## 📂 Folder Structure  
 ```
 📦 react-learning-repo 
+ ┣ 📂 New-Projects
  ┣ 📂 Notes  
  ┃ ┣ 📜 learning-plan.pdf  
  ┃ ┣ 📜 R-V-T.pdf   // Recat Vite and Tailwindcss easy installation 
@@ -244,4 +245,5 @@ This project is licensed under the **MIT License** – you're free to use, modif
 ---
 
 ### 🌟 If you find this repository helpful, consider giving it a ⭐ on GitHub!  
+
 
