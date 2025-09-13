@@ -19,9 +19,9 @@
 ![MegaMart Screenshot](./public/e-commerce.png)
 
 # Mobile & Tablet
-<p style="display: flex; justify-content: center; gap: 10px; ">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; ">
     <img src="./public/tablet.png" alt="Tablet" width="60%" />
-    <img src="./public/mobile.png" alt="Mobile" width="40%" />
+    <img src="./public/mobile.png" alt="Mobile" width="35%" />
 </p>
 
 ---
