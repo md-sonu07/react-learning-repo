@@ -14,7 +14,7 @@ Currently improving the design and adding more features! 🚀
 ---
 
 ## 🖼️ Screenshot
-![MegaMart Screenshot](/public/e-commerce.png)
+![MegaMart Screenshot](./public/e-commerce.png)
 
 ---
 
