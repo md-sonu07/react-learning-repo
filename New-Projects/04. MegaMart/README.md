@@ -1,7 +1,7 @@
 # 🛍️ MegaMart
 
-A modern and fully **responsive E-Commerce Website** built with **React + Tailwind CSS**, using **JSON data** for product listings.  
-Currently improving the design and adding more features! 🚀  
+### A modern and fully **responsive E-Commerce Website** built with **React + Tailwind CSS**, using **JSON data** for product listings.  
+### Currently improving the design and adding more features! 🚀  
 
 ---
 
@@ -14,7 +14,19 @@ Currently improving the design and adding more features! 🚀
 ---
 
 ## 🖼️ Screenshot
-![MegaMart Screenshot](./public/e-commerce.png)
+<<<<<<< HEAD
+![MegaMart Screenshot](/public/e-commerce.png)
+=======
+
+# Desktop
+![MegaMart Screenshot](/public/e-commerce.png)
+
+# Mobile & Tablet
+<p align="center" style="display: flex; justify-content: center; gap: 10px; ">
+    <img src="./public/tablet.png" alt="Tablet" width="60%" />
+    <img src="./public/mobile.png" alt="Mobile" width="35%" />
+</p>
+>>>>>>> 38ba5ed434a8bd51e1210b64c07965b7981cdd9c
 
 ---
 
